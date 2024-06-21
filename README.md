@@ -1,3 +1,3 @@
 # 📘 Age Calculator - Frontend Mentor
-[!NOTE]
+> [!NOTE]
 > Useful information that users should know, even when skimming content.
